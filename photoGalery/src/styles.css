@@ -1,0 +1,9 @@
+
+.Amenities  { 
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background-color: green;
+    border-radius: 20px;
+    padding: 12px 20px;
+}
